@@ -1,0 +1,16 @@
+{
+    "name": "node",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "test": " nodemon app.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "cloudant": "^1.10.0-NOTICE",
+        "morgan": "^1.10.0",
+        "nodemon": "^2.0.16"
+    }
+}
